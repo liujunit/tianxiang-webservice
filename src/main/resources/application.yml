@@ -1,0 +1,8 @@
+server:
+  port: 8080
+
+cxf:
+  path: /axis/services
+
+publish:
+  address: /WMSBillServiceIn
